@@ -64,7 +64,7 @@ under the License.
         <junit5.version>5.9.1</junit5.version>
         <assertj.version>3.23.1</assertj.version>
         <mockito.version>4.11.0</mockito.version>
-        <archunit.version>1.0.1</archunit.version>
+        <archunit.version>1.2.0</archunit.version>
         <testcontainers.version>1.17.6</testcontainers.version>
 
         <japicmp.skip>false</japicmp.skip>
@@ -75,7 +75,7 @@ under the License.
         <log4j.version>2.17.2</log4j.version>
         <jaxb-api.version>2.3.1</jaxb-api.version>
         <commons-compress.version>1.24.0</commons-compress.version>
-        <byte-buddy.version>1.12.20</byte-buddy.version>
+        <byte-buddy.version>1.14.4</byte-buddy.version>
         <kryo.version>2.24.0</kryo.version>
         <objenesis.version>3.3</objenesis.version>
         <jackson-bom.version>2.13.4.20221013</jackson-bom.version>
